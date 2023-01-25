@@ -3,14 +3,13 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
+  - [Built With](#built-with)
+
+* [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Demo]
-  - [x] [API Reference - Users](#api-reference---users)
-  - [ ] [API Reference - Message](#api-reference---message)
-- [Related Project](#related-project)
-- [Contact](#contact)
+* [Related Project](#related-project)
+* [Contact](#contact)
 
 ## About The Project
 
@@ -80,8 +79,8 @@ https://beecommerce-tan.vercel.app/
 
 ## Related Project
 
-- [`Backend Project Telegram `](https://github.com/Fanani23/beecommerce)
-- [`REST API Telegram`](https://beecommerce-tan.vercel.app/)
+- [`Backend Project Ecommerce `](https://github.com/Fanani23/beecommerce)
+- [`REST API Ecommerce`](https://beecommerce-tan.vercel.app/)
 
 ## Contact
 
